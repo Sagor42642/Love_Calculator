@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Love Calculator</title>
+    <meta name="viewport" content="width=device-width, inithial-scale=1">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="css/jquery.mobile-1.4.0.min.css">
+	 <script type="text/javascript"  src="js/jquery-1.10.2.min.js"></script> 
+    <script type="text/javascript"  src="js/jquery.mobile-1.4.0.min.js"></script> 
+    <script type="text/javascript"  src="js/js.js"></script> 
+</head>
+<body>
+   <div data-role="page">
+   	    <div data-role="header">
+               <h1>Love Calculator</h1>
+        </div>
+        <div role="main" class ="ui-content" id="background_cont">
+   	       <input type="text" name="name1" id="first" placeholder="Enter a Name"><br/>
+   	       <h2>Loves</h2><br/>
+               <input type="text" name="name1" id="second" placeholder="Enter another Name"><br/><br/>
+               <input type="button" name="submit" id="submit" onclick="trigger()" value="Calculate"><br/>
+          </div>
+          <div data-role="footer">
+               <h2> Love Percentage </h2>
+             <center> <div class="percent1 percent2" id="result"></div> </center> 
+              <p><font size="5em">%</font></p>
+            </div>
+   	</div>
+</body>
+</html>

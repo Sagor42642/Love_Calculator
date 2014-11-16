@@ -1,0 +1,76 @@
+Manifest-Version: 1.0
+
+Name: index.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: uqk5imEioR4Bi582LXhodg==
+SHA1-Digest: NuyIzIjAA3WyNUmrvgRjF5+RbZw=
+
+Name: manifest.webapp
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: pZBcRqSgFYuGpXRKslhEJA==
+SHA1-Digest: +GwXBDj9faqoKn8JHgrQ7iQYDGY=
+
+Name: css/jquery.mobile-1.4.0.min.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: E7WFMn2bkxBjZ9CW/EpPSA==
+SHA1-Digest: l01i0ILyI571Eoxxm6/iC383CuM=
+
+Name: css/style.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 3gtm8mdzRZUPpWB9B5J1ow==
+SHA1-Digest: wbABZ++RhgJr5p/FQazbUwPKbmg=
+
+Name: img/Love2.jpg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 4VkV6tB2gFxkJ2mBJwROEw==
+SHA1-Digest: ZwxQD64ViPZ9tzmFhKzVS+3sIjU=
+
+Name: img/icon/icon-128.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: KzVsXsNoZhDOkgCyl2ayGQ==
+SHA1-Digest: RD2W9uGwFvDktjVKmd4jQL6sEfk=
+
+Name: img/icon/icon-16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +OC/EdotoDNHDgto1invTQ==
+SHA1-Digest: B4ykukZhcuvla53pr+Oh8xfduvU=
+
+Name: img/icon/icon-256.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: aa/ZRJQfJbfTejZOEtVj9w==
+SHA1-Digest: Je7yME1+s8eKkjcu+i1TwGo9ljo=
+
+Name: img/icon/icon-48.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: DIsfBDy+ZhCkir1++3xGkQ==
+SHA1-Digest: ss7+/xbSQrvhqlXAgRWj5bLRHk0=
+
+Name: img/icon/icon-60.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: aQHE2fwFoB3Tnvloq7n3XA==
+SHA1-Digest: f5SsHFx7t7s1wFnOALOCL5l7Y6k=
+
+Name: img/icon/icon-90.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: TaHA6BUPMjN3XRLF8J88+w==
+SHA1-Digest: uj+rCdidoVtHFzzp2EjunluhD5A=
+
+Name: js/jquery-1.10.2.min.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ng/JXgceKRTdvN/g/NdtcA==
+SHA1-Digest: ToYu7BfH0yBE9JF+Rh8PnXYoNQk=
+
+Name: js/jquery.mobile-1.4.0.min.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: f5TOYoBjj1fsFbfrY06E7A==
+SHA1-Digest: crkE+Oms4YRDRDgXgCsmX1OcaLE=
+
+Name: js/js.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: BbiDEP7CWFK+SGhnzrYVsA==
+SHA1-Digest: Lzfer5zA5dp4gNLNIrny7cxlljU=
+
+Name: META-INF/ids.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: RAmG42XMvChSTwWXTScbyg==
+SHA1-Digest: BCUVuVkRBpGrY+TCIoHmSIcjfz4=

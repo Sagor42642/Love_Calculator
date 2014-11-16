@@ -1,0 +1,19 @@
+{
+  "version": "1.0",
+  "name": "Love Calculator",
+  "description": "Calculate your pure love with your mate.",
+  "launch_path": "/index.html",
+  "icons": {
+    "16": "/img/icon/icon-16.png",
+    "48": "/img/icon/icon-48.png",
+	"60": "/img/icon/icon-60.png",
+	"90": "/img/icon/icon-90.png",
+	"128": "/img/icon/icon-128.png",
+	"256": "/img/icon/icon-256.png"
+  },
+  "developer": {
+    "name": "Md.Ruhul Amin",
+    "url": "https://www.facebook.com/ruhulamin6070"
+  },
+  "default_locale": "en"
+}
